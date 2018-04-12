@@ -3,9 +3,8 @@
 
 [online strona dziękuję](https://kryczek.github.io/gary-landingpage/dziekuje.html)
 
-Info: paczkę należy pobrać, do popupów dodać swoje formularze z integracją i uzupełnić linki na stronie dziękuję:
+Info: paczkę należy pobrać, do popupów dodać swoje formularze z integracją i uzupełnić link na stronie dziękuję:
 
-- Do dwóch przycisków "Dodaj do kalendarza" dodać adres do kalendarza google - powinna uruchomić się aplikacja z zapisem terminu.
 - Do "Instrukcji" dodać adres mailowy - będzie uruchamiany program pocztowy.
 
-Po wykonaniu powyższych czyności należy wgrać pliki z paczki na serwer.
+Po wykonaniu powyższych czyności należy wgrać pliki z paczki na serwer. Przyciski "Dodaj do kalendarza" powinny być aktywne pod domeną www.wbexp.pl
