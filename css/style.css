@@ -315,25 +315,21 @@ a:hover .zmdi-hc-fw {
 
 /* 4. Buttons */
 .button {
-  background: #C30016;
-  border-radius: 45.5px;
-  font-family: 'Muli', sans-serif;
-  font-size: 14px;
-  color: white;
-  letter-spacing: 1.75px;
-  text-transform: uppercase;
-  text-decoration: none;
-  font-weight: 900;
-  transition: all 0.3s ease;
+  text-align: center;
+  display: block;
+  background: #F01616;
+  color: #fff;
+  font-size: 20px;
+  border-radius: 10px;
+  padding: 20px 20px;
+  max-width: 360px;
   white-space: nowrap;
+  border-bottom: 5px solid #950E0E;
 }
 
-.button-long-width {
-  padding: 18px 75px;
-}
-
-.button-normal-width {
-  padding: 18px 35px;
+.text-tiny {
+  font-size: 15px;
+  font-weight: 300;
 }
 
 .button:hover {
