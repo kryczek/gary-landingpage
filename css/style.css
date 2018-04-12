@@ -1489,7 +1489,7 @@ width: 300px;
 
 div#addeventatc1:hover,
 div#addeventatc2:hover {
-    background: rgb(145,32,45);
+    background-color: rgb(145,32,45) !important;
 }
   .addeventatc .addeventatc_icon {
     display: none;
