@@ -1486,6 +1486,11 @@ padding: 20px !important;
 border-bottom: 5px solid rgb(149, 14, 14) !important;
 width: 300px;
 }
+
+div#addeventatc1:hover,
+div#addeventatc2:hover {
+    background: rgb(145,32,45);
+}
   .addeventatc .addeventatc_icon {
     display: none;
   }
