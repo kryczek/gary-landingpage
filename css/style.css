@@ -256,7 +256,18 @@ section {
   background-size: cover;
   min-height: 852px;
   padding: 10px 0px;
-  color: white;
+  color: black;
+}
+
+.header-section-thx {
+  background: url(../img/bg-thx.png) right bottom no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height: 852px;
+  padding: 10px 0px;
+  color: black;
 }
 
 .margin-top-header {
@@ -290,6 +301,7 @@ img.logo {
   height: auto;
 }
 
+.header-section-thx,
 .header-section h2,
 .header-section p{
   color: white;
@@ -346,6 +358,10 @@ a:hover .zmdi-hc-fw {
   white-space: nowrap;
   border-bottom: 5px solid #950E0E;
   margin: 0 auto;
+}
+
+.btn-left {
+  margin: 0 !important;
 }
 
 .text-tiny {
@@ -1341,4 +1357,21 @@ input[type="submit"]:hover {
   input[type="submit"] {
     margin: 0px;
   }
+}
+
+/*Section box */
+.section-box h3,
+.section-box p {
+    color: #fff !important;
+}
+
+.section-box .col-lg-12 {
+  background: url(../img/bg-box.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 30px;
+  color: black;
+  margin-bottom: 50px;
 }
