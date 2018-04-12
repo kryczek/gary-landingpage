@@ -1373,5 +1373,19 @@ input[type="submit"]:hover {
   background-size: cover;
   padding: 30px;
   color: black;
-  margin-bottom: 50px;
+  margin-bottom: 70px;
+}
+
+.bg-none {
+  background-color: #fff !important;
+  background-image: url() !important;
+}
+
+.button-box {
+    position: absolute;
+    margin: 0 auto 30px !important;
+    left: 0;
+    text-align: center;
+    right: 0;
+    max-width: 300px !important;
 }
