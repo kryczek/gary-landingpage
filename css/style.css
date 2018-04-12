@@ -1368,6 +1368,18 @@ input[type="submit"]:hover {
 }
 
 /*Section box */
+.section-box {
+  background: url(../img/bg-red.png) center center no-repeat;
+  padding: 30px;
+  margin-bottom: 70px;
+}
+
+@media screen and (max-width:768px) {
+  .section-box{
+  background: url();
+}
+}
+
 .section-box h3,
 .section-box p {
     color: #fff !important;
