@@ -31,6 +31,7 @@ h1 {
   font-family: 'Muli', sans-serif;
   font-weight: 900;
   text-transform: uppercase;
+  color: #fff;
 }
 
 h2 {
@@ -978,7 +979,14 @@ p.footer-info {
   width: 30%;
   position: relative;
   transition: all 2s ease-in-out;
+  color: #fff;
+  background: url(../img/bg-box.png) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
+
 .popup .close {
   position: absolute;
   top: 20px;
@@ -987,7 +995,7 @@ p.footer-info {
   font-size: 30px;
   font-weight: bold;
   text-decoration: none;
-  color: #333;
+  color: #fff;
 }
 .popup .content {
   overflow: auto;
