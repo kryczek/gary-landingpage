@@ -234,7 +234,7 @@ i.zmdi {
 
 /* 3. Header */
 .header-section {
-  background: url(../img/header-cover.png) 70% 50% no-repeat;
+  background: url(../img/header-cover.png) right bottom no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
