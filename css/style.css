@@ -1453,3 +1453,43 @@ fieldset {
     padding: 10px 20px;
     border-radius: 10px;
 }
+
+.addeventatc {
+    color: white;
+    display: inline-block;
+    zoom: 1;
+    position: relative;
+    z-index: 1;
+    font-family: Roboto,"Helvetica Neue",Helvetica,Optima,Segoe,"Segoe UI",Candara,Calibri,Arial,sans-serif;
+    color: #fff!important;
+    font-weight: 300;
+    line-height: 100% !important;
+    background-color: #F01616 !important;
+    border: 1px solid;
+    border-color: #F01616 !important;
+    font-size: 35px;
+    text-decoration: none;
+    padding: 13px 12px 12px 43px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    cursor: pointer;
+    -webkit-font-smoothing: antialiased!important;
+  }
+
+  div#addeventatc1,
+  div#addeventatc2 {
+    color: #fff !important;
+    font-size: 15px !important;
+    border-radius: 10px !important;
+    text-transform: uppercase !important;
+padding: 20px !important;
+border-bottom: 5px solid rgb(149, 14, 14) !important;
+width: 300px;
+}
+
+  div#addeventatc2 {
+      position: absolute;
+  }
+  .addeventatc .addeventatc_icon {
+    display: none;
+  }
