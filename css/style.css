@@ -263,7 +263,7 @@ section {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  min-height: 852px;
+  min-height: 452px;
   padding: 10px 0px;
   background-color: black;
 }
@@ -280,7 +280,7 @@ section {
 }
 
 .margin-top-header {
-  padding-top: 15%;
+    padding: 5rem;
 }
 
 .header-section2 {
