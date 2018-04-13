@@ -366,6 +366,14 @@ a:hover .zmdi-hc-fw {
   .margin-top-header {
     margin-top: 20%;
 }
+
+h2 {
+    font-size: 20px;
+}
+
+.bg-none {
+  margin-bottom: 0px !important;
+}
 }
 
 @media screen and (max-width: 320px) {
