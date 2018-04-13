@@ -374,6 +374,10 @@ h2 {
 .bg-none {
   margin-bottom: 0px !important;
 }
+
+div#addeventatc1 {
+    width: 280px;
+}
 }
 
 @media screen and (max-width: 320px) {
