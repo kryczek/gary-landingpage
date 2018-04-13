@@ -347,11 +347,11 @@ a:hover .zmdi-hc-fw {
   }
 
   .header-section {
-    background: url(../img/header-cover.png) 30% no-repeat;
+    background: url(../img/header-cover.png) 40% 0% no-repeat;
   }
 
   .header-section-thx {
-    background: url(../img/bg-thx.png) 30% no-repeat;
+    background: url(../img/bg-thx.png) 40% 0% no-repeat;
   }
 }
 
