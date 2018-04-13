@@ -376,7 +376,7 @@ h2 {
 }
 
 div#addeventatc1 {
-    width: 280px;
+    width: 280px !important;
 }
 }
 
