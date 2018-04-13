@@ -353,6 +353,19 @@ a:hover .zmdi-hc-fw {
   .header-section-thx {
     background: url(../img/bg-thx.png) 40% 0% no-repeat;
   }
+
+  img.logo {
+    width: 50%;
+    height: auto;
+  }
+
+  h1 {
+    font-size: 40px;
+}
+
+  .margin-top-header {
+    margin-top: 20%;
+}
 }
 
 @media screen and (max-width: 320px) {
